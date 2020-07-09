@@ -1,0 +1,29 @@
+{
+  "name": "use-axios",
+  "version": "1.0.0",
+  "description": "A react hook to make requests to api's",
+  "main": "index.js",
+  "repository": "https://github.com/Jorrmungandr/use-axios.git",
+  "author": "Edgar Marques <edgarmarques.110@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
